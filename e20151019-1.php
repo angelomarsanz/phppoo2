@@ -1,5 +1,5 @@
 <?php
-include "ClaseSencilla.php";
+include "e20151018-1.php";
 
 $instancia = new ClaseSencilla();
 
