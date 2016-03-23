@@ -1,5 +1,5 @@
 <?php
-class ClaseSencilla
+class Clase1
 {
     // Declaración de una propiedad
     public $var = 'un valor predeterminado';

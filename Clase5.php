@@ -12,6 +12,7 @@ class Hija extends Prueba
 
 $obj1 = new Prueba();
 $obj2 = new $obj1;
+
 var_dump($obj1 !== $obj2);
 
 $obj3 = Prueba::getNew();
